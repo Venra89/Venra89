@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Venra89 AKA Ravikumar Yadav
+- 👋 Hi, I’m Ravikumar Yadav
 - 👀 I’m interested in Web development and cloud computing
-- 🌱 I’m currently in my 3rd Btech Computer Science spectiztion cloud computing
+- 🌱 I’m currently in my 3rd year Btech Computer Science specialization cloud computing
 - 📫 catch me up with ravikumardadi48@gmail.com
 -   https://www.linkedin.com/in/ravikumar-dadi-b53047207/
 
